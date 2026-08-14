@@ -106,15 +106,18 @@ and problem-solving skills.
 
 # 🧑‍💻 About Me
 
-```javascript
+<table>
+<tr>
+<td width="55%" valign="top">
+
+<pre>
 const tahasin = {
     name: "Tahasin Islam Arnob",
-
-    location: "Bangladesh",
+    location: "Khulna, Bangladesh",
 
     education: {
         degree: "B.Sc. in Computer Science & Engineering",
-        university: "Northern University Bangladesh",
+        university: "Northern University Bangladesh"
     },
 
     role: [
@@ -122,59 +125,117 @@ const tahasin = {
         "UI/UX Designer"
     ],
 
-    goal: "Become a Professional Full-Stack Developer",
+    mission:
+        "Building modern, scalable and meaningful digital experiences",
 
-    frontend: [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "TypeScript",
-        "React",
-        "Next.js",
-        "Tailwind CSS"
-    ],
+    frontend: {
+        core: [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "TypeScript"
+        ],
+        frameworks: [
+            "React",
+            "Next.js"
+        ],
+        styling: [
+            "Tailwind CSS",
+            "shadcn/ui"
+        ]
+    },
 
-    animation: [
-        "GSAP",
-        "Framer Motion",
-        "Lenis",
-        "Three.js"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "Next.js API Routes",
-        "REST APIs"
-    ],
+    backend: {
+        runtime: [
+            "Node.js"
+        ],
+        framework: [
+            "Express.js",
+            "Next.js"
+        ],
+        api: [
+            "REST API",
+            "Route Handlers"
+        ]
+    },
 
     database: [
         "Supabase",
         "PostgreSQL"
     ],
 
-    ai: [
-        "OpenAI",
-        "Groq"
+    motionAnd3D: [
+        "GSAP",
+        "Framer Motion",
+        "Lenis",
+        "Three.js",
+        "React Three Fiber"
+    ],
+
+    aiAndIntegration: [
+        "OpenAI API",
+        "Groq API"
     ],
 
     tools: [
         "Git",
         "GitHub",
+        "Figma",
         "Vercel",
-        "Netlify",
-        "Figma"
+        "Netlify"
     ],
 
-    interests: [
-        "Full-Stack Development",
-        "UI/UX Design",
-        "Creative Development",
+    currentlyFocusedOn: [
+        "Advanced Full-Stack Development",
+        "System Design",
         "AI Integration",
-        "Motion Design",
-        "3D Web Experiences",
-        "System Architecture"
+        "Creative Web Experiences"
     ],
 
-    mindset: "Learn → Build → Improve → Repeat"
+    goal:
+        "Become a highly skilled professional Full-Stack Developer",
+
+    philosophy:
+        "Learn → Build → Break → Fix → Improve"
 };
+</pre>
+
+</td>
+
+<td width="45%" valign="top">
+
+<h3>⚡ What I Do</h3>
+
+<p>
+<b>💻 Full-Stack Development</b><br>
+Building complete web applications with modern frontend, backend, database and API architecture.
+</p>
+
+<p>
+<b>🎨 UI/UX & Creative Development</b><br>
+Designing clean, responsive and visually engaging interfaces with strong attention to detail.
+</p>
+
+<p>
+<b>✨ Motion & Interaction</b><br>
+Creating smooth and premium interactions using GSAP, Framer Motion, Lenis and modern animation techniques.
+</p>
+
+<p>
+<b>🤖 AI Integration</b><br>
+Experimenting with AI-powered applications and integrating LLM APIs into real-world web experiences.
+</p>
+
+<p>
+<b>🚀 Performance & Architecture</b><br>
+Focused on maintainable code, scalable architecture and high-performance web applications.
+</p>
+
+<p>
+<b>📚 Continuous Learning</b><br>
+Always learning new technologies, improving problem-solving skills and turning knowledge into real projects.
+</p>
+
+</td>
+</tr>
+</table>
