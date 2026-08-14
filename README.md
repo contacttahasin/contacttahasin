@@ -1,229 +1,180 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:EA580C,100:C2410C&height=240&section=header&text=Tahasin&Islam&Arnob&fontSize=78&animation=fadeIn&fontAlignY=38&desc=Creative%20Soul%20%20|%20%20Code%20Obsessed%20%20|%20%20Future-Focused%20Developer&descAlignY=54&descAlign=65&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:1f1f1f&height=240&section=header&text=Tahasin%20Islam%20Arnob&fontSize=68&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%20%7C%20%20UI%2FUX%20Designer%20%20%7C%20%20Creative%20Engineer&descAlignY=55&descAlign=50&fontColor=ffffff"/>
+
 <br>
-```
-<img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=FDBA74&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Web+Developer+%E2%9C%A6;%E2%9C%A6+MERN+Stack+Architect+%E2%9C%A6;%E2%9C%A6+Tech+Content+Researcher+%E2%9C%A6;%E2%9C%A6+Building+Scalable+Web+Applications+%E2%9C%A6;%E2%9C%A6+Lifelong+Learner+%26+AI+Enthusiast+%E2%9C%A6"/>
-```
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=%E2%9C%A6+Full-Stack+Developer+%E2%9C%A6;%E2%9C%A6+UI%2FUX+Designer+%E2%9C%A6;%E2%9C%A6+Next.js+%26+React+Developer+%E2%9C%A6;%E2%9C%A6+Creative+Frontend+Engineer+%E2%9C%A6;%E2%9C%A6+AI-Powered+Web+Experiences+%E2%9C%A6;%E2%9C%A6+Always+Learning%2C+Always+Building+%E2%9C%A6"/>
+
 <br><br>
 
 <p align="center">
-  <a href="https://monirujjaman.pro.bd/"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=todoist&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mdmonirujjaman-dev"><img src="https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/mdmonirujjaman.dev"><img src="https://img.shields.io/badge/Facebook-F97316?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contact.mdmonirujjaman@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-F97316?style=for-the-badge&logo=gmail&logoColor=FDBA74" />
+
+<a href="https://tahasin-kappa.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
+<a href="https://github.com/contacttahasin">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:contacttahasin@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=contacttahasin&label=Profile%20views&color=F97316&style=flat" />
-  <img src="https://img.shields.io/github/followers/contacttahasin?label=Followers&style=flat&color=F97316" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-F97316" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=contacttahasin&label=Profile%20Views&color=111111&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/contacttahasin?label=Followers&style=for-the-badge&color=111111"/>
+
+<img src="https://img.shields.io/badge/Status-Available%20for%20Work-111111?style=for-the-badge"/>
 
 </div>
+
+---
+
+# 👋 Hey, I'm Tahasin Islam Arnob
+
+I'm a **CSE student at Northern University Bangladesh** and a passionate **Full-Stack Developer & UI/UX Designer** focused on building modern, scalable and visually engaging digital experiences.
+
+I enjoy turning ideas into real products — from elegant interfaces and smooth animations to complete web applications powered by modern backend technologies and AI.
+
+> **I don't just build websites. I build digital experiences.**
+
+---
 
 ## 🎯 Current Focus
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td align="center" width="50%" style="border: 1px solid #F97316; border-radius: 10px; padding: 10px;">
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
-      <br>
-      <strong style="color: #FDBA74;">🔭 Currently Working On</strong>
-      <br>
-      <a href="https://github.com/contacttahasin" style="text-decoration: none;">
-        <code style="color: #FDBA74; background-color: #F97316; padding: 2px 5px; border-radius: 5px;">Aethera AI</code>
-      </a> 
-      <br>
-      <span style="color: #FFFFFF; font-size: 0.9em;">Custom AI Assistant Platform</span>
-    </td>
-    <td align="center" width="50%" style="border: 1px solid #F97316; border-radius: 10px; padding: 10px;">
-      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70">
-      <br>
-      <strong style="color: #FDBA74;">🌱 Currently Learning</strong>
-      <br>
-      <span style="color: #FFFFFF; font-size: 0.9em;">Advanced System Design & AI/ML</span>
-    </td>
-  </tr>
-</table>
-
-## 🚀 About Me
+<div align="center">
 
 <table>
 <tr>
-<td width="55%" valign="top">
 
-```javascript
-const monirujjaman = {
-  location: "📍 Khulna, Bangladesh", //
-  role: "Full Stack Web Developer", //
+<td align="center" width="50%">
 
-  // Tech Stack & Languages
-  languages: ["JavaScript", "HTML5", "CSS3"], //
-  frontend: ["React", "Next.js", "Tailwind CSS", "Framer Motion"], //
-  backend: ["Node.js", "Express.js", "RESTful APIs"], //
-  database: ["MongoDB", "Firebase"], //
-  
-  // Advanced Skills
-  specialization: [
-    "MERN Stack Development", //
-    "UI/UX Motion Design", //
-    "AI Model Integration", //
-    "Legacy Hardware Hosting Solutions" //
-  ],
+### 🚀 Currently Building
 
-  // Education & Professional Focus
-  education: "HSC Completed | CSE Undergraduate (2026 Batch)", //
-  currentProject: "Neural-Interface Portfolio Assistant (Aethera)", //
+<br>
 
-  // Fun Fact
-  funFact: "I debug code faster than I decide what to eat 🍜"
-};
-```
+**Modern Full-Stack Web Applications**
+
+<br>
+
+Next.js • React • TypeScript • Supabase
+
+<br><br>
+
+Designing scalable applications with  
+clean architecture, modern UI and  
+real-world functionality.
 
 </td>
-<td width="45%" valign="top">
 
-### 🎯 What I Do
+<td align="center" width="50%">
 
-🤖 **Exploring AI Integration**
-Building personal AI-driven projects like Aethera, focused on learning how to bridge LLMs with web applications.
+### 🌱 Currently Learning
 
-💡 **Build & Innovate**
-Developing user-friendly MERN stack applications
+<br>
 
-🔍 **Research & Explore**
-Staying updated with cutting-edge technologies
+**Advanced Full-Stack Development**
 
-🌱 **Grow Continuously**
-Mastering Data Structure & Algorithms
+<br>
 
-✨ **Problem Solving Journey**
-Continuously strengthening my core engineering skills through Data Structures and Algorithms.
+System Design • AI Integration •  
+Performance • Architecture
+
+<br><br>
+
+Continuously improving my engineering  
+and problem-solving skills.
 
 </td>
+
 </tr>
 </table>
 
-<div align="center">
-<h1 style="font-size: 2.5rem; font-style: italic; font-weight: bold;">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27">
- ❖ Tech Stack & Tools ❖
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27">
-</h1>
-
-### ⚙️ Programming Language
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F97316?style=for-the-badge&logo=javascript&logoColor=FDBA74" />
-  <img src="https://img.shields.io/badge/TypeScript-F97316?style=for-the-badge&logo=typescript&logoColor=FDBA74" />
-  <img src="https://img.shields.io/badge/C-F97316?style=for-the-badge&logo=c&logoColor=FDBA74" />
-  <img src="https://img.shields.io/badge/C%2B%2B-F97316?style=for-the-badge&logo=c%2B%2B&logoColor=FDBA74" />
-  <img src="https://img.shields.io/badge/Java-F97316?style=for-the-badge&logo=openjdk&logoColor=FDBA74" />
-  <img src="https://img.shields.io/badge/Python-F97316?style=for-the-badge&logo=python&logoColor=FDBA74" />
-  <img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=FDBA74" />
-  <img src="https://img.shields.io/badge/CSS3-F97316?style=for-the-badge&logo=css3&logoColor=FDBA74" />
-  <img src="https://img.shields.io/badge/SQL-F97316?style=for-the-badge&logo=postgresql&logoColor=FDBA74" />
-  <img src="https://img.shields.io/badge/Assembly-F97316?style=for-the-badge&logo=assembly&logoColor=FDBA74" />
-</p>
-
-### ⚡ Frontend Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-F97316?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F97316?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-F97316?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-F97316?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-F97316?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-F97316?style=for-the-badge&logo=framer&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & Database
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-F97316?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-F97316?style=for-the-badge&logo=express&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MongoDB-F97316?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-F97316?style=for-the-badge&logo=firebase&logoColor=white"/>
-</p>
-
-### 🤖 Tools & Platforms
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-F97316?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-F97316?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-F97316?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-F97316?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-### 🎨 Design & Productivity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-F97316?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-F97316?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F97316?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-F97316?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-F97316?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-<div align="center">
-
-<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"> 
- ❖ GitHub Analytics ❖
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"></h1> 
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=contacttahasin&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=F97316&sideLabels=FFFFFF&currStreakNum=F97316&ring=F97316&currStreakLabel=F97316&sideNums=FFFFFF&dates=EA580C" />
-
-<br>
-
-[![Monir's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=contacttahasin\&bg_color=F97316\&color=FDBA74\&line=EA580C\&point=FB923C\&area=true\&area_color=EA580C\&hide_border=true)](https://github.com/contacttahasin)
-
 </div>
 
-##
+---
 
-<h1 style="font-size: 2.5rem; font-style: italic; font-weight: bold;">
-❖ &nbsp;Competitive Coding ❖ 
-</h1>
-<p align="center">
+# 🧑‍💻 About Me
 
-<a href="https://www.hackerrank.com/mdmonirujjaman"><img src="https://img.shields.io/badge/-HackerRank-F97316?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> <a href="https://leetcode.com/mdmonirujjaman"><img src="https://img.shields.io/badge/-LeetCode-F97316?style=for-the-badge&logo=LeetCode&logoColor=white" /></a> <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME"><img src="https://img.shields.io/badge/-Codeforces-F97316?style=for-the-badge&logo=Codeforces&logoColor=white" /></a> <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME"><img src="https://img.shields.io/badge/-CodeChef-F97316?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+```javascript
+const tahasin = {
+    name: "Tahasin Islam Arnob",
 
-> *"I don't just build websites; I engineer digital ecosystems where imagination meets pixel-perfect execution."*
->
-> **— MD Monirujjaman**
+    location: "Bangladesh",
 
-</p>
+    education: {
+        degree: "B.Sc. in Computer Science & Engineering",
+        university: "Northern University Bangladesh",
+    },
 
-<h1 style="font-size: 2.5rem; font-style: italic; font-weight: bold;">
-❖ &nbsp;Open to Collaboration ❖
-</h1>
+    role: [
+        "Full-Stack Developer",
+        "UI/UX Designer"
+    ],
 
-<div align="center">
+    goal: "Become a Professional Full-Stack Developer",
 
-> **Looking to synergize with innovative teams to build scalable MERN applications and explore the frontier of AI-driven web solutions.**
+    frontend: [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS"
+    ],
 
-<br/>
+    animation: [
+        "GSAP",
+        "Framer Motion",
+        "Lenis",
+        "Three.js"
+    ],
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-F97316?style=for-the-badge\&logo=linkedin\&logoColor=FDBA74)](https://linkedin.com/in/mdmonirujjaman-dev)  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contact.mdmonirujjaman@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Send%20an%20Email-F97316?style=for-the-badge&logo=gmail&logoColor=FDBA74" /> </a>
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-F97316?style=for-the-badge\&logo=firefox\&logoColor=FDBA74)](https://monirujjaman.pro.bd/)
+    backend: [
+        "Node.js",
+        "Express.js",
+        "Next.js API Routes",
+        "REST APIs"
+    ],
 
-<br/>
+    database: [
+        "Supabase",
+        "PostgreSQL"
+    ],
 
-![Profile Views](https://komarev.com/ghpvc/?username=contacttahasin\&color=F97316\&style=for-the-badge\&label=PROFILE+VIEWS)
+    ai: [
+        "OpenAI",
+        "Groq"
+    ],
 
-</div>
+    tools: [
+        "Git",
+        "GitHub",
+        "Vercel",
+        "Netlify",
+        "Figma"
+    ],
 
-<br>
+    interests: [
+        "Full-Stack Development",
+        "UI/UX Design",
+        "Creative Development",
+        "AI Integration",
+        "Motion Design",
+        "3D Web Experiences",
+        "System Architecture"
+    ],
 
-> ## ❖ Support My Work ❖
-
-<p align="center">
-
-> If you like my projects, consider giving them a ⭐  It motivates me to build more amazing things!
-
-</p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C2410C,50:EA580C,100:F97316&height=120&section=footer&text=Thanks%20for%20Visiting&fontSize=20&fontAlignY=80&fontColor=FED7AA" width="100%"/>
-</div>
+    mindset: "Learn → Build → Improve → Repeat"
+};
