@@ -1,241 +1,179 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:1f1f1f&height=240&section=header&text=Tahasin%20Islam%20Arnob&fontSize=68&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%20%7C%20%20UI%2FUX%20Designer%20%20%7C%20%20Creative%20Engineer&descAlignY=55&descAlign=50&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a1a,100:2b2b2b&height=220&section=header&text=Developer%20Portfolio&fontSize=56&animation=fadeIn&fontAlignY=38&desc=Premium%20%C2%B7%20Minimal%20%C2%B7%20Motion-Driven%20Web%20Experience&descAlignY=58&descAlign=50&fontColor=ffffff"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=%E2%9C%A6+Full-Stack+Developer+%E2%9C%A6;%E2%9C%A6+UI%2FUX+Designer+%E2%9C%A6;%E2%9C%A6+Next.js+%26+React+Developer+%E2%9C%A6;%E2%9C%A6+Creative+Frontend+Engineer+%E2%9C%A6;%E2%9C%A6+AI-Powered+Web+Experiences+%E2%9C%A6;%E2%9C%A6+Always+Learning%2C+Always+Building+%E2%9C%A6"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=Built+with+Next.js+%2B+TypeScript;Animated+with+GSAP+%2B+Framer+Motion;Styled+with+Tailwind+%2B+Shadcn+UI;Powered+by+Supabase+%2B+PostgreSQL"/>
 
 <br><br>
 
 <p align="center">
-
-<a href="https://tahasin-kappa.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/contacttahasin">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:contacttahasin@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://tahasin-kappa.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/contacttahasin">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:contacttahasin@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=contacttahasin&label=Profile%20Views&color=111111&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/contacttahasin?label=Followers&style=for-the-badge&color=111111"/>
-
-<img src="https://img.shields.io/badge/Status-Available%20for%20Work-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Actively%20Maintained-111111?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/github/last-commit/contacttahasin/your-repo-name?style=for-the-badge&color=111111"/>
+&nbsp;
+<img src="https://img.shields.io/github/license/contacttahasin/your-repo-name?style=for-the-badge&color=111111"/>
 
 </div>
 
----
+<br>
 
-# 👋 Hey, I'm Tahasin Islam Arnob
+## ✦ About This Project
 
-I'm a **CSE student at Northern University Bangladesh** and a passionate **Full-Stack Developer & UI/UX Designer** focused on building modern, scalable and visually engaging digital experiences.
+A **premium, dark-luxury personal portfolio** — designed to feel less like a static website and more like an interactive experience. Every scroll, transition, and hover was crafted with intent, drawing inspiration from Apple's product pages and Awwwards-level motion design.
 
-I enjoy turning ideas into real products — from elegant interfaces and smooth animations to complete web applications powered by modern backend technologies and AI.
+This isn't a template. It's a hand-built showcase of who I am as a developer: **skills**, **experience**, **projects**, **services**, and a direct line to **contact** me.
 
-> **I don't just build websites. I build digital experiences.**
+<br>
 
----
-
-## 🎯 Current Focus
+## ✦ Built With
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-### 🚀 Currently Building
-
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC"/>
 <br>
-
-**Modern Full-Stack Web Applications**
-
+<img src="https://img.shields.io/badge/GSAP-111111?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
+<img src="https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lenis-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Shadcn_UI-111111?style=for-the-badge&logo=shadcnui&logoColor=white"/>
 <br>
-
-Next.js • React • TypeScript • Supabase
-
-<br><br>
-
-Designing scalable applications with  
-clean architecture, modern UI and  
-real-world functionality.
-
-</td>
-
-<td align="center" width="50%">
-
-### 🌱 Currently Learning
-
-<br>
-
-**Advanced Full-Stack Development**
-
-<br>
-
-System Design • AI Integration •  
-Performance • Architecture
-
-<br><br>
-
-Continuously improving my engineering  
-and problem-solving skills.
-
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </div>
 
----
+<br>
 
-# 🧑‍💻 About Me
+## ✦ Highlights
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-<pre>
-const tahasin = {
-    name: "Tahasin Islam Arnob",
-    location: "Khulna, Bangladesh",
-
-    education: {
-        degree: "B.Sc. in Computer Science & Engineering",
-        university: "Northern University Bangladesh"
-    },
-
-    role: [
-        "Full-Stack Developer",
-        "UI/UX Designer"
-    ],
-
-    mission:
-        "Building modern, scalable and meaningful digital experiences",
-
-    frontend: {
-        core: [
-            "HTML5",
-            "CSS3",
-            "JavaScript",
-            "TypeScript"
-        ],
-        frameworks: [
-            "React",
-            "Next.js"
-        ],
-        styling: [
-            "Tailwind CSS",
-            "shadcn/ui"
-        ]
-    },
-
-    backend: {
-        runtime: [
-            "Node.js"
-        ],
-        framework: [
-            "Express.js",
-            "Next.js"
-        ],
-        api: [
-            "REST API",
-            "Route Handlers"
-        ]
-    },
-
-    database: [
-        "Supabase",
-        "PostgreSQL"
-    ],
-
-    motionAnd3D: [
-        "GSAP",
-        "Framer Motion",
-        "Lenis",
-        "Three.js",
-        "React Three Fiber"
-    ],
-
-    aiAndIntegration: [
-        "OpenAI API",
-        "Groq API"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "Figma",
-        "Vercel",
-        "Netlify"
-    ],
-
-    currentlyFocusedOn: [
-        "Advanced Full-Stack Development",
-        "System Design",
-        "AI Integration",
-        "Creative Web Experiences"
-    ],
-
-    goal:
-        "Become a highly skilled professional Full-Stack Developer",
-
-    philosophy:
-        "Learn → Build → Break → Fix → Improve"
-};
-</pre>
+**🌑 Design**
+- Premium dark / luxury visual identity
+- Apple & Awwwards-inspired layout language
+- Fully responsive across every breakpoint
+- SEO-friendly, semantic structure
 
 </td>
+<td width="50%" valign="top">
 
-<td width="45%" valign="top">
+**🎬 Motion**
+- Buttery-smooth scroll via Lenis
+- Timeline-based animation with GSAP
+- Micro-interactions via Framer Motion
+- Interactive, motion-led hero section
 
-<h3>⚡ What I Do</h3>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-<b>💻 Full-Stack Development</b><br>
-Building complete web applications with modern frontend, backend, database and API architecture.
-</p>
+**🗂️ Sections**
+- Skills & experience overview
+- Project showcase with case studies
+- Services offered
+- Direct contact system
 
-<p>
-<b>🎨 UI/UX & Creative Development</b><br>
-Designing clean, responsive and visually engaging interfaces with strong attention to detail.
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p>
-<b>✨ Motion & Interaction</b><br>
-Creating smooth and premium interactions using GSAP, Framer Motion, Lenis and modern animation techniques.
-</p>
-
-<p>
-<b>🤖 AI Integration</b><br>
-Experimenting with AI-powered applications and integrating LLM APIs into real-world web experiences.
-</p>
-
-<p>
-<b>🚀 Performance & Architecture</b><br>
-Focused on maintainable code, scalable architecture and high-performance web applications.
-</p>
-
-<p>
-<b>📚 Continuous Learning</b><br>
-Always learning new technologies, improving problem-solving skills and turning knowledge into real projects.
-</p>
+**⚡ Engineering**
+- Performance-first build practices
+- Type-safe codebase (TypeScript)
+- Supabase + PostgreSQL data layer
+- Zero-friction Vercel deployment
 
 </td>
 </tr>
 </table>
+
+<br>
+
+## ✦ Quick Start
+
+```bash
+# Clone
+git clone https://github.com/contacttahasin/your-repo-name.git
+cd your-repo-name
+
+# Install
+npm install
+
+# Environment
+cp .env.example .env.local
+# → add your Supabase URL + keys
+
+# Run
+npm run dev
+```
+
+Visit **`http://localhost:3000`** to see it live.
+
+<br>
+
+## ✦ Folder Structure
+
+```
+├── app/            → routes, layouts, pages (App Router)
+├── components/     → UI building blocks
+├── lib/            → Supabase client, utils, helpers
+├── public/         → images, fonts, static assets
+├── styles/         → global styles, Tailwind config
+└── .env.local      → environment variables (gitignored)
+```
+
+<br>
+
+## ✦ Deploy
+
+Optimized for one-click deployment on **Vercel**:
+
+```bash
+npm run build
+npm run start
+```
+
+Connect the repo to Vercel and every push to `main` ships automatically.
+
+<br>
+
+<div align="center">
+
+## ✦ Let's Connect
+
+<p align="center">
+  <a href="https://tahasin-kappa.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/contacttahasin">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:contacttahasin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+**⭐ If this inspired you, drop a star — it means a lot.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,50:1a1a1a,100:0f0f0f&height=100&section=footer"/>
+
+</div>
